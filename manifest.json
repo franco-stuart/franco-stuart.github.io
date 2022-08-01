@@ -1,6 +1,6 @@
 {
-    "name": "delteme",
-    "short_name": "delteme",
+    "name": "keirin_sample",
+    "short_name": "keirin_sample",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
